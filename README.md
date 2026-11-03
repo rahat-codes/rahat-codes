@@ -117,11 +117,28 @@ These projects demonstrate different parts of the software engineering lifecycle
 5. **Document for other developers** — provide setup instructions, architecture, limitations, and examples.
 6. **Measure instead of guessing** — report model performance only when backed by repeatable evaluation.
 
-## 🌆 Animated Engineering Portfolio
+## ✨ Animated Developer Showcase
 
-![Animated engineering skyline](assets/engineering-skyline.svg)
+<div align="center">
 
-<sub>Animated coding-inspired skyline representing software engineering, problem solving, teamwork, communication, and continuous growth.</sub>
+<img src="assets/terminal-code.svg" width="100%" alt="Animated coding terminal with code, clean engineering workflow, and blinking cursor" />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/neural-network.svg" width="100%" alt="Animated AI neural network showing data flow and machine learning" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/collaboration-orbit.svg" width="100%" alt="Animated teamwork, listening, adaptability, and problem solving orbit" />
+    </td>
+  </tr>
+</table>
+
+<img src="assets/engineering-skyline.svg" width="100%" alt="Animated engineering skyline representing software engineering and professional growth" />
+
+</div>
+
+<sub>Four original SVG animations: coding workflow, AI/data flow, collaboration and soft skills, and continuous engineering growth. SVG animation support can vary by GitHub client.</sub>
 
 ---
 
