@@ -7,6 +7,12 @@
 
 <div align="center">
 
+# RAHAT MD MAHADI HASSAN
+
+**AI SOFTWARE ENGINEERING · APPLIED MACHINE LEARNING · MOBILE & BACKEND DEVELOPMENT**
+
+<sub>Building practical software. Solving real problems. Growing through collaboration.</sub>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=RAHAT&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineering%20%7C%20Applied%20Machine%20Learning&descAlignY=58&descSize=17" width="100%" alt="Animated blue gradient header saying Rahat, AI Software Engineering and Applied Machine Learning" />
 
 <a href="https://git.io/typing-svg">
