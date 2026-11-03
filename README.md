@@ -117,6 +117,14 @@ These projects demonstrate different parts of the software engineering lifecycle
 5. **Document for other developers** — provide setup instructions, architecture, limitations, and examples.
 6. **Measure instead of guessing** — report model performance only when backed by repeatable evaluation.
 
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/output/github-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+
+</div>
+
 ## 📈 GitHub Activity
 
 <div align="center">
