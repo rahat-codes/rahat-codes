@@ -20,22 +20,43 @@
   <img src="https://img.shields.io/badge/Focus-AI%20Software%20Engineering-2563eb?style=for-the-badge" alt="Focus: AI Software Engineering" />
 </p>
 
+<p align="center">
+  <b>AI Software Engineering Student</b> · Backend & Mobile Development · Applied Machine Learning
+</p>
+
+<p align="center">
+  <a href="#-featured-projects">Projects</a> ·
+  <a href="#-engineering-toolkit">Tech Stack</a> ·
+  <a href="#-animated-developer-showcase">Animations</a> ·
+  <a href="#-current-focus">Current Focus</a> ·
+  <a href="#-connect">Contact</a>
+</p>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an AI student interested in building complete software products that use data and machine learning to solve practical problems.
+I'm an AI student focused on **building useful software systems**—from mobile and backend applications to data-driven and machine-learning solutions.
 
-My approach is **software engineering first**: understand the problem, design maintainable components, build reliable APIs and data workflows, test the system, and then integrate AI where it adds value.
+I approach projects with an engineering mindset: clarify the problem, break it into manageable components, design clear interfaces, test important behavior, document trade-offs, and use AI where it creates measurable value.
 
-- 🧠 **Main direction:** AI Software Engineering
-- 🧱 **Engineering interests:** backend development, modular architecture, APIs, databases, testing, and deployment
-- 🤖 **AI interests:** applied machine learning, deep learning, model evaluation, and reproducible experiments
-- 📱 **Application development:** Flutter and Dart
-- 🐍 **Primary development language:** Python
-- 🎯 **Goal:** prepare for AI/software engineering internships through practical, well-documented projects
+- 🎯 **Career direction:** AI Software Engineer / Software Engineer
+- 🧱 **Software engineering:** backend services, REST APIs, modular architecture, databases, and testing
+- 📱 **Product development:** Flutter and Dart applications
+- 🤖 **Applied AI:** machine learning workflows, model evaluation, and reproducible experiments
+- 🤝 **Ways of working:** communication, teamwork, active listening, adaptability, and continuous learning
+- 🌱 **Currently improving:** production-quality code, deployment workflows, and collaborative development
+
+### Portfolio at a glance
+
+| Focus | What you'll find |
+|---|---|
+| Application engineering | Flutter apps, navigation, state management, and user-facing features |
+| Backend engineering | Python services, API design, persistence, and integration |
+| Applied machine learning | Data preparation, model training, evaluation, and inference workflows |
+| Research & reproducibility | Validation strategy, experiment design, and transparent limitations |
 
 ## 🧰 Engineering Toolkit
 
@@ -161,11 +182,15 @@ These projects demonstrate different parts of the software engineering lifecycle
 
 ## 🎯 Current Focus
 
-- Building maintainable AI-powered applications from data pipeline to user-facing product.
-- Strengthening backend engineering, API design, databases, and automated testing.
-- Improving model deployment, evaluation, and reproducibility.
-- Developing a stronger portfolio through complete projects and clear technical documentation.
-- Preparing for AI Software Engineer internship opportunities.
+- Strengthening software design, backend engineering, API development, and database fundamentals.
+- Building complete applications with clear architecture, useful documentation, and meaningful tests.
+- Improving model evaluation, reproducibility, and practical AI integration.
+- Practicing collaborative engineering through readable commits, issue tracking, and code review habits.
+- Preparing for AI Software Engineer and Software Engineer internship opportunities.
+
+### What I value as a teammate
+
+**Clear communication · Thoughtful problem-solving · Reliable follow-through · Openness to feedback · Continuous learning**
 
 ## 🤝 Connect
 
