@@ -15,6 +15,7 @@
 
 <p>
   <a href="https://github.com/rahat-codes"><img src="https://img.shields.io/badge/GitHub-rahat--codes-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/rahat-md-mahadi-hasan/"><img src="https://img.shields.io/badge/LinkedIn-Rahat%20Md%20Mahadi%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Rahat Md Mahadi Hassan" /></a>
   <img src="https://komarev.com/ghpvc/?username=rahat-codes&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-AI%20Software%20Engineering-2563eb?style=for-the-badge" alt="Focus: AI Software Engineering" />
 </p>
@@ -138,6 +139,7 @@ These projects demonstrate different parts of the software engineering lifecycle
 I'm open to learning, collaboration, and conversations about software engineering, applied AI, machine learning, and useful technology.
 
 - GitHub: [@rahat-codes](https://github.com/rahat-codes)
+- LinkedIn: [Rahat Md Mahadi Hassan](https://www.linkedin.com/in/rahat-md-mahadi-hasan/)
 
 <div align="center">
 
