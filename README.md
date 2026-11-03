@@ -4,9 +4,9 @@
 
 # Hi, I'm Rahat 👋
 
-### AI Student · Aspiring AI/ML Engineer · Flutter Developer
+### AI Software Engineer in Progress | Python · Flutter · Backend · Machine Learning
 
-I build practical software projects while exploring machine learning, applied AI, and mobile application development.
+I build software applications and explore how AI can be integrated into reliable, useful products. My focus is software engineering first: application architecture, APIs, data pipelines, testing, and maintainable implementation — with machine learning as a core specialization.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rahat--codes-181717?style=flat&logo=github)](https://github.com/rahat-codes)
 [![Profile Views](https://komarev.com/ghpvc/?username=rahat-codes&style=flat&color=blue)](https://github.com/rahat-codes)
@@ -17,63 +17,75 @@ I build practical software projects while exploring machine learning, applied AI
 
 ## About Me
 
-- 🎓 AI student interested in turning data and ideas into useful applications.
-- 🤖 Exploring machine learning, deep learning, and reproducible experimentation.
+- 🎓 AI student building practical software and machine-learning projects.
+- 🧱 Interested in clean architecture, modular design, APIs, databases, and testing.
+- 🤖 Developing skills in applied machine learning, model evaluation, and reproducible experiments.
 - 📱 Building cross-platform applications with Flutter and Dart.
-- 🧰 Practicing software engineering through project-based development.
-- 🌱 Focused on improving model evaluation, clean architecture, testing, and technical documentation.
-- 🤝 Open to learning opportunities and collaborative projects.
+- 🐍 Using Python for backend development, data processing, and ML workflows.
+- 🌱 Working toward AI software engineering internships and collaborative engineering projects.
 
-## Technical Interests
+## Engineering Toolkit
 
-| Area | Tools and technologies |
+| Engineering area | Technologies and practices |
 |---|---|
-| Programming | Python, Dart, C, C++ |
-| Machine Learning | scikit-learn, TensorFlow, NumPy, Pandas |
-| Mobile Development | Flutter, Dart |
-| Backend & APIs | Python, FastAPI |
-| Data & Experimentation | Data preprocessing, model evaluation, cross-validation |
-| Tools | Git, GitHub, Linux, Docker |
+| Languages | Python, Dart, C, C++ |
+| Application development | Flutter, REST APIs, Flask, FastAPI |
+| Software design | Modular architecture, layered design, reusable components |
+| Data & persistence | SQL, SQLite, PostgreSQL, Pandas, NumPy |
+| Machine learning | scikit-learn, TensorFlow, CatBoost, XGBoost |
+| Engineering workflow | Git, GitHub, Linux, Docker, automated tests |
+| Evaluation | Cross-validation, regression/classification metrics, reproducibility |
 
-*This list reflects technologies represented in my projects and learning work; it is not a claim of equal proficiency across every tool.*
+*Technologies listed are based on tools represented in my repositories and learning projects; proficiency varies by technology.*
 
-## Featured Projects
+## Featured Engineering Projects
 
-### 🤖 Machine Learning & Research
+### 🧭 [CampusAR — Offline-First Campus Navigator](https://github.com/rahat-codes/campusar)
 
-- **[Automotive Classification — Reproducible Evaluation](https://github.com/rahat-codes/automotive-classification-reproducible-project)**  
-  A research-oriented re-evaluation of centroid-based vehicle classification, including repeated cross-validation, leakage-aware pipelines, baselines, external validation, and statistical testing.
+A multi-part application combining a Flutter mobile client with a Python FastAPI backend. The repository includes a local SQLite data layer, API routes, database models and repositories, A* pedestrian routing, migrations, Docker configuration, and backend tests.
 
-- **[Chicken Disease Classification](https://github.com/rahat-codes/Chicken-Disease-Classification-Project)**  
-  An end-to-end deep-learning project repository organized around configuration, components, pipelines, and experiment workflows. See the repository for current implementation details.
+**Engineering focus:** mobile/backend integration, offline-first architecture, API design, persistence, pathfinding, and automated testing.
 
-- **[Customer Churn Prediction](https://github.com/rahat-codes/customer-churn-prediction)**  
-  A machine-learning project workspace with data, notebooks, and source-code directories.
+> The bundled campus dataset is explicitly marked as fictional sample data, not verified Tongmyong University building information.
 
-- **[End-to-End ML Project](https://github.com/rahat-codes/mlproject)**  
-  A Python machine-learning application repository with application code and deployment-related files.
+### 💳 [Nova Fintech](https://github.com/rahat-codes/nova_fintech)
 
-### 📱 Software & Mobile Development
+A modular Flutter fintech demo organized into app, core, data, and feature areas. It uses GoRouter for navigation and Riverpod for state-management foundations, with reusable UI components and animations.
 
-- **[CampusAR — Campus Navigator](https://github.com/rahat-codes/campusar)**  
-  An offline-first Flutter campus-navigation MVP with local campus data, A* walking-route calculation, and a GPS/compass-based AR guidance foundation. The repository clearly labels its bundled campus dataset as fictional sample data, not verified university information.
+**Engineering focus:** modular Flutter structure, navigation, reusable components, state management, and UI engineering.
 
-- **[Nova Fintech](https://github.com/rahat-codes/nova_fintech)**  
-  A Flutter fintech application project.
+### 🎓 [Student Performance Prediction — ML Application](https://github.com/rahat-codes/mlproject)
 
-- **[Free Campus Map](https://github.com/rahat-codes/free_campus_map)**  
-  A Flutter campus-map application project.
+An end-to-end Python regression application that predicts a student's mathematics score from demographic and academic input features. The repository includes data ingestion, preprocessing pipelines, model comparison, serialized artifacts, and a Flask prediction interface.
 
-- **[Moto Travel](https://github.com/rahat-codes/moto-travel)**  
-  A motorcycle-riding game prototype built with Flutter, featuring riding controls and obstacle avoidance.
+**Engineering focus:** data pipelines, preprocessing, model training, serialization, inference, and web application integration.
 
-## What I'm Working Toward
+### 🗺️ [Free Campus Map](https://github.com/rahat-codes/free_campus_map)
 
-- Building and documenting complete machine-learning projects.
-- Improving model evaluation and reproducibility.
-- Developing polished Flutter applications with maintainable architecture.
-- Strengthening data structures, algorithms, testing, and software design.
-- Contributing to open-source projects and preparing for AI/software engineering internships.
+A Flutter campus-map prototype using OpenStreetMap-based map tiles and place discovery, device geolocation, and walking-route requests.
+
+**Engineering focus:** third-party API integration, geospatial data, asynchronous requests, and location permissions.
+
+### 🧪 [Automotive Classification — Reproducible Evaluation](https://github.com/rahat-codes/automotive-classification-reproducible-project)
+
+A research project examining vehicle-type classification with attention to leakage-aware evaluation, baselines, cross-validation, external validation, and statistical methodology.
+
+**Research focus:** experimental design, model comparison, and reproducibility. See the repository for the current scripts and research notes.
+
+## How I Approach Engineering
+
+- Design software as understandable, testable components.
+- Keep data preprocessing and model evaluation reproducible.
+- Treat API failures, permissions, and offline behavior as real product concerns.
+- Document setup steps, architecture, limitations, and known issues.
+- Prefer measured results over unsupported performance claims.
+
+## Current Goals
+
+- Build production-minded AI applications that connect models to usable software.
+- Strengthen backend engineering, databases, API design, and automated testing.
+- Improve ML evaluation, deployment, and monitoring foundations.
+- Contribute to open-source projects and prepare for AI software engineering internships.
 
 ## GitHub Overview
 
@@ -83,20 +95,18 @@ I build practical software projects while exploring machine learning, applied AI
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-codes&layout=compact&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahat-codes&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ---
 
 ## Let's Connect
 
-I'm interested in connecting with developers, researchers, and teams working on AI, machine learning, and software products.
+I'm interested in collaborating on software products, applied AI, machine learning, and open-source engineering.
 
 - GitHub: [@rahat-codes](https://github.com/rahat-codes)
 
 <div align="center">
 
-**Thanks for visiting — feel free to explore my repositories!** ⭐
+**Thanks for visiting — explore the projects and their documentation!** ⭐
 
 </div>
