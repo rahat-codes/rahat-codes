@@ -117,6 +117,14 @@ These projects demonstrate different parts of the software engineering lifecycle
 5. **Document for other developers** — provide setup instructions, architecture, limitations, and examples.
 6. **Measure instead of guessing** — report model performance only when backed by repeatable evaluation.
 
+## 🌆 Animated Engineering Portfolio
+
+![Animated engineering skyline](assets/engineering-skyline.svg)
+
+<sub>Animated coding-inspired skyline representing software engineering, problem solving, teamwork, communication, and continuous growth.</sub>
+
+---
+
 ## 🐍 Contribution Animation
 
 <div align="center">
