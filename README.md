@@ -10,7 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=RAHAT&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineering%20%7C%20Applied%20Machine%20Learning&descAlignY=58&descSize=17" width="100%" alt="Animated blue gradient header saying Rahat, AI Software Engineering and Applied Machine Learning" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+software+that+puts+AI+to+work;Python+%7C+Flutter+%7C+APIs+%7C+Machine+Learning;Engineering+reliable%2C+useful+applications" alt="Animated typing text: Building software that puts AI to work; Python, Flutter, APIs, Machine Learning; Engineering reliable, useful applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=820&lines=while(true)%7B+learn()%3B+build()%3B+improve()%3B+%7D;Clean+Code+%7C+Problem+Solving+%7C+Critical+Thinking;Python+%7C+Flutter+%7C+APIs+%7C+Machine+Learning;Clear+Communication+%7C+Teamwork+%7C+Adaptability;Listen+carefully.+Collaborate+openly.+Deliver+reliably.;Turning+ideas+into+useful%2C+well-engineered+software" alt="Animated coding and professional skills: continuous learning, clean code, problem solving, Python, Flutter, APIs, machine learning, communication, teamwork, adaptability, and reliable delivery" />
 </a>
 
 <p>
