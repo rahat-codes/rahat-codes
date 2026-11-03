@@ -1,84 +1,102 @@
-# 👋 Hi, I'm Rahat
+<!-- Profile README for https://github.com/rahat-codes -->
 
-### AI Student | Flutter Developer | Aspiring AI/ML Engineer
+<div align="center">
 
-I am a technology enthusiast passionate about building practical software solutions, exploring Artificial Intelligence, and developing modern mobile applications.
+# Hi, I'm Rahat 👋
 
-I enjoy transforming ideas into functional projects, learning new technologies, and continuously improving my software development skills.
+### AI Student · Aspiring AI/ML Engineer · Flutter Developer
 
----
+I build practical software projects while exploring machine learning, applied AI, and mobile application development.
 
-## 🚀 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-rahat--codes-181717?style=flat&logo=github)](https://github.com/rahat-codes)
+[![Profile Views](https://komarev.com/ghpvc/?username=rahat-codes&style=flat&color=blue)](https://github.com/rahat-codes)
 
-- 🎓 Studying Artificial Intelligence.
-- 📱 Developing cross-platform applications using Flutter and Dart.
-- 🤖 Exploring Machine Learning, Deep Learning, and Data Science.
-- 🐍 Practicing Python and working with data-driven projects.
-- 💻 Learning software engineering and problem-solving.
-- 🌱 Continuously building projects and expanding my technical knowledge.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- 🎓 AI student interested in turning data and ideas into useful applications.
+- 🤖 Exploring machine learning, deep learning, and reproducible experimentation.
+- 📱 Building cross-platform applications with Flutter and Dart.
+- 🧰 Practicing software engineering through project-based development.
+- 🌱 Focused on improving model evaluation, clean architecture, testing, and technical documentation.
+- 🤝 Open to learning opportunities and collaborative projects.
 
-### Frameworks & Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+## Technical Interests
 
-### AI & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+| Area | Tools and technologies |
+|---|---|
+| Programming | Python, Dart, C, C++ |
+| Machine Learning | scikit-learn, TensorFlow, NumPy, Pandas |
+| Mobile Development | Flutter, Dart |
+| Backend & APIs | Python, FastAPI |
+| Data & Experimentation | Data preprocessing, model evaluation, cross-validation |
+| Tools | Git, GitHub, Linux, Docker |
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+*This list reflects technologies represented in my projects and learning work; it is not a claim of equal proficiency across every tool.*
+
+## Featured Projects
+
+### 🤖 Machine Learning & Research
+
+- **[Automotive Classification — Reproducible Evaluation](https://github.com/rahat-codes/automotive-classification-reproducible-project)**  
+  A research-oriented re-evaluation of centroid-based vehicle classification, including repeated cross-validation, leakage-aware pipelines, baselines, external validation, and statistical testing.
+
+- **[Chicken Disease Classification](https://github.com/rahat-codes/Chicken-Disease-Classification-Project)**  
+  An end-to-end deep-learning project repository organized around configuration, components, pipelines, and experiment workflows. See the repository for current implementation details.
+
+- **[Customer Churn Prediction](https://github.com/rahat-codes/customer-churn-prediction)**  
+  A machine-learning project workspace with data, notebooks, and source-code directories.
+
+- **[End-to-End ML Project](https://github.com/rahat-codes/mlproject)**  
+  A Python machine-learning application repository with application code and deployment-related files.
+
+### 📱 Software & Mobile Development
+
+- **[CampusAR — Campus Navigator](https://github.com/rahat-codes/campusar)**  
+  An offline-first Flutter campus-navigation MVP with local campus data, A* walking-route calculation, and a GPS/compass-based AR guidance foundation. The repository clearly labels its bundled campus dataset as fictional sample data, not verified university information.
+
+- **[Nova Fintech](https://github.com/rahat-codes/nova_fintech)**  
+  A Flutter fintech application project.
+
+- **[Free Campus Map](https://github.com/rahat-codes/free_campus_map)**  
+  A Flutter campus-map application project.
+
+- **[Moto Travel](https://github.com/rahat-codes/moto-travel)**  
+  A motorcycle-riding game prototype built with Flutter, featuring riding controls and obstacle avoidance.
+
+## What I'm Working Toward
+
+- Building and documenting complete machine-learning projects.
+- Improving model evaluation and reproducibility.
+- Developing polished Flutter applications with maintainable architecture.
+- Strengthening data structures, algorithms, testing, and software design.
+- Contributing to open-source projects and preparing for AI/software engineering internships.
+
+## GitHub Overview
+
+<div align="center">
+
+![Rahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahat-codes&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-codes&layout=compact&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahat-codes&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## Let's Connect
 
-| Project | Description | Technology |
-|---|---|---|
-| Nova Fintech | Modern fintech mobile application | Flutter, Dart |
-| Campus Map | Campus navigation application | Flutter, Dart |
-| Social Media Clone | Modern social media application | Flutter, Dart |
-| Moto Travel 3D | Motorcycle travel game prototype | Unity, C# |
+I'm interested in connecting with developers, researchers, and teams working on AI, machine learning, and software products.
 
-*Replace these descriptions or links as your projects evolve.*
+- GitHub: [@rahat-codes](https://github.com/rahat-codes)
 
----
+<div align="center">
 
-## 📊 GitHub Statistics
+**Thanks for visiting — feel free to explore my repositories!** ⭐
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahat-codes&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-codes&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🎯 Current Goals
-
-- Build practical AI and Machine Learning projects.
-- Develop production-quality Flutter applications.
-- Improve data structures and algorithms.
-- Contribute to open-source projects.
-- Develop a strong portfolio for future internships.
-
----
-
-### 💬 Let's Connect
-
-I'm always interested in learning, collaborating, and building something meaningful.
-
-⭐ Thanks for visiting my GitHub profile!
-
+</div>
