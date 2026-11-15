@@ -1,9 +1,9 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- ===== THEME-AWARE TERMINAL PROFILE ===== -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahat-codes/rahat-codes/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahat-codes/rahat-codes/main/light.svg">
-  <img alt="Rahat Md Mahadi Hassan — AI Software Engineer" src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/main/light.svg">
+  <img alt="Rahat Md Mahadi Hassan — AI Software Engineering Student" src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/main/light.svg">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -18,12 +18,12 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=rahat-codes&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500">
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=rahat-codes&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Rahat's GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rahat-codes&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahat-codes&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Rahat's GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=rahat-codes&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500">
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=rahat-codes&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Rahat's most used languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-codes&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-codes&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Rahat's most used languages">
 </picture>
 
 </div>
@@ -35,34 +35,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahat-codes/rahat-codes/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahat-codes/rahat-codes/output/snake-light.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/output/snake-light.svg">
+  <img alt="Snake animation across Rahat's GitHub contributions" src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/output/snake-light.svg">
 </picture>
 
 </div>
 
-<!-- ===== PROJECTS ===== -->
+<!-- ===== PROJECTS PANEL ===== -->
 
 <br/>
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/main/projects/projects.svg" alt="Rahat's selected projects">
-</div>
-
-<div align="center">
-
-<a href="https://github.com/rahat-codes/nova_fintech">Nova Fintech</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/rahat-codes/campusar">CampusAR</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/rahat-codes/mlproject">Machine Learning</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/rahat-codes/free_campus_map">Free Campus Map</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/rahat-codes/moto-travel">Moto Travel</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/rahat-codes/automotive-classification-reproducible-project">Automotive ML Research</a>
-
+  <img width="100%" src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/projects/projects.svg" alt="Selected projects by Rahat">
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
