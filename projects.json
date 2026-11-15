@@ -2,60 +2,60 @@
   {
     "name": "Nova Fintech",
     "repo": "rahat-codes/nova_fintech",
-    "description": "A polished Flutter fintech demo with glassmorphic banking UI and mock data",
+    "description": "Flutter fintech mobile prototype with modular UI, GoRouter and Riverpod",
     "tags": [
       "Flutter",
       "Dart",
-      "Fintech"
+      "Riverpod"
     ]
   },
   {
     "name": "CampusAR",
     "repo": "rahat-codes/campusar",
-    "description": "An augmented-reality campus navigation and discovery project",
+    "description": "Offline-first Tongmyong campus navigator with A* routing and AR guidance",
     "tags": [
       "Flutter",
-      "AR",
-      "Mobile"
+      "FastAPI",
+      "SQLite"
     ]
   },
   {
-    "name": "ML Project",
+    "name": "Student Performance Prediction",
     "repo": "rahat-codes/mlproject",
-    "description": "Machine learning experiments, model development and data workflows",
+    "description": "End-to-end ML pipeline predicting mathematics scores with a Flask interface",
     "tags": [
       "Python",
-      "ML",
-      "Data"
+      "Scikit-learn",
+      "Flask"
     ]
   },
   {
     "name": "Free Campus Map",
     "repo": "rahat-codes/free_campus_map",
-    "description": "A free Flutter campus map with GPS and walking navigation",
+    "description": "Flutter campus map using OpenStreetMap, device location and walking routes",
     "tags": [
       "Flutter",
-      "Maps",
+      "OpenStreetMap",
       "GPS"
     ]
   },
   {
     "name": "Moto Travel",
     "repo": "rahat-codes/moto-travel",
-    "description": "A motorcycle travel game project focused on immersive road gameplay",
+    "description": "Flutter motorcycle game prototype with riding controls and obstacle avoidance",
     "tags": [
       "Flutter",
-      "Game",
-      "Dart"
+      "Dart",
+      "Game"
     ]
   },
   {
     "name": "Automotive Classification",
     "repo": "rahat-codes/automotive-classification-reproducible-project",
-    "description": "A reproducible machine-learning classification research project",
+    "description": "Reproducible cross-dataset vehicle-type classification and statistical evaluation",
     "tags": [
       "Python",
-      "ML",
+      "Scikit-learn",
       "Research"
     ]
   }
