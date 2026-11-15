@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Nova Fintech",
+    "repo": "rahat-codes/nova_fintech",
+    "description": "A polished Flutter fintech demo with glassmorphic banking UI and mock data",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Fintech"
+    ]
+  },
+  {
+    "name": "CampusAR",
+    "repo": "rahat-codes/campusar",
+    "description": "An augmented-reality campus navigation and discovery project",
+    "tags": [
+      "Flutter",
+      "AR",
+      "Mobile"
+    ]
+  },
+  {
+    "name": "ML Project",
+    "repo": "rahat-codes/mlproject",
+    "description": "Machine learning experiments, model development and data workflows",
+    "tags": [
+      "Python",
+      "ML",
+      "Data"
+    ]
+  },
+  {
+    "name": "Free Campus Map",
+    "repo": "rahat-codes/free_campus_map",
+    "description": "A free Flutter campus map with GPS and walking navigation",
+    "tags": [
+      "Flutter",
+      "Maps",
+      "GPS"
+    ]
+  },
+  {
+    "name": "Moto Travel",
+    "repo": "rahat-codes/moto-travel",
+    "description": "A motorcycle travel game project focused on immersive road gameplay",
+    "tags": [
+      "Flutter",
+      "Game",
+      "Dart"
+    ]
+  },
+  {
+    "name": "Automotive Classification",
+    "repo": "rahat-codes/automotive-classification-reproducible-project",
+    "description": "A reproducible machine-learning classification research project",
+    "tags": [
+      "Python",
+      "ML",
+      "Research"
+    ]
+  }
+]
