@@ -18,9 +18,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frahat--codes&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0A101F" alt="GitHub repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frahat-codes&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0A101F" alt="GitHub repositories">
   <img src="https://img.shields.io/github/followers/rahat-codes?label=Followers&style=for-the-badge&logo=github&color=0A101F" alt="GitHub followers">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frahat--codes&query=%24.public_gists&label=Public%20Gists&style=for-the-badge&logo=github&color=0A101F" alt="GitHub stars">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frahat-codes&query=%24.public_gists&label=Public%20Gists&style=for-the-badge&logo=github&color=0A101F" alt="GitHub stars">
   <br/><br/>
   <img src="https://img.shields.io/badge/Python-AI%20%26%20Data-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Flutter-Mobile%20Development-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
