@@ -17,15 +17,15 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rahat-codes&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahat-codes&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Rahat's GitHub stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-codes&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-codes&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Rahat's most used languages">
-</picture>
-
+<div align="center">
+  <img src="https://img.shields.io/github?label=Public%20Repositories&style=for-the-badge&logo=github&color=0A101F" alt="GitHub repositories">
+  <img src="https://img.shields.io/github/followers/rahat-codes?label=Followers&style=for-the-badge&logo=github&color=0A101F" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/rahat-codes?label=Profile%20Stars&style=for-the-badge&logo=github&color=0A101F" alt="GitHub stars">
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Python-AI%20%26%20Data-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20Development-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/C%2B%2B-Software%20Engineering-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/TensorFlow-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </div>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/projects/projects.svg" alt="Selected projects by Rahat">
+  <img width="100%" src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/projects.svg" alt="Selected projects by Rahat">
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
