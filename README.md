@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/projects.svg" alt="Selected projects by Rahat">
+  <img width="100%" src="https://raw.githubusercontent.com/rahat-codes/rahat-codes/projects/projects.svg" alt="Selected projects by Rahat">
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
