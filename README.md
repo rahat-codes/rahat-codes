@@ -56,7 +56,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rahat-md-mahadi-hasan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A101F" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo and profile link">
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/rahat-codes">
