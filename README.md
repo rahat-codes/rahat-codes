@@ -40,18 +40,6 @@
 
 </div>
 
-<!-- ===== PROJECTS PANEL ===== -->
-
-## 🚀 Selected Projects
-
-A selection of real projects across mobile engineering, backend development, machine learning and computer vision.
-
-| Project | Project | 
-|:--|:--|
-| **[CampusAR](https://github.com/rahat-codes/campusar)**  <br> Offline-first campus navigation with A* routing and AR guidance. <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) <br> [Open repository ↗](https://github.com/rahat-codes/campusar) | **[Nova Fintech](https://github.com/rahat-codes/nova_fintech)** <br> Modular Flutter fintech prototype with modern mobile UI, routing and state management. <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-2D3748?style=flat-square) <br> [Open repository ↗](https://github.com/rahat-codes/nova_fintech) |
-| **[Automotive Classification](https://github.com/rahat-codes/automotive-classification-reproducible-project)** <br> Reproducible vehicle-type classification with cross-dataset evaluation. <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) <br> [Open repository ↗](https://github.com/rahat-codes/automotive-classification-reproducible-project) | **[Student Performance Prediction](https://github.com/rahat-codes/mlproject)** <br> End-to-end mathematics score prediction pipeline with a Flask interface. <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) <br> [Open repository ↗](https://github.com/rahat-codes/mlproject) |
-| **[Chicken Disease Classification](https://github.com/rahat-codes/Chicken-Disease-Classification-Project)** <br> Image-based disease classification using a reproducible machine-learning workflow. <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) <br> [Open repository ↗](https://github.com/rahat-codes/Chicken-Disease-Classification-Project) | **[Free Campus Map](https://github.com/rahat-codes/free_campus_map)** <br> Flutter campus map with OpenStreetMap, device location and walking routes. <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white) <br> [Open repository ↗](https://github.com/rahat-codes/free_campus_map) |
-
 <!-- ===== SOCIAL BADGES ===== -->
 
 <br/>
